@@ -1,4 +1,4 @@
-Remove the center alignment wrappers. Here's the corrected version with normal alignment:
+
 
 #  Decentralized StableCoin Protocol
 
